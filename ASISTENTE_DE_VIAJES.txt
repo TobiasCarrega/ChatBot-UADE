@@ -71,3 +71,6 @@ Respuesta: junio/julio son las mejores epocas para ir
 
 35) Hola
 Respuesta: ola como te llamas?
+
+36) Hola
+Respuesta: hola, porfavor haz una pregunta sobre viajes
