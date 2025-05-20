@@ -2,20 +2,22 @@ from archivo import cargar_txt, guardar_txt
 from logica import buscar_por_palabras_clave
 
 def menu():
-    """Muestra el menú principal del chatbot."""
+    #------------------Muestra el menú principal del chatbot.
     print("\n🧭 Menú del Asistente de Viajes:")
     print("1. Hacer una pregunta")
     print("2. Salir")
 
 def iniciar_chat():
-    archivo = "../ASISTENTE_DE_VIAJES.txt"
+    #------------------------Funcion del chatbot.
+    archivo = "ASISTENTE_DE_VIAJES.txt"
     preguntas_respuestas = cargar_txt(archivo)
 
     print("**********************************")
     print("🧳 Bienvenido al Asistente de Viajes.")
     print("**********************************")
-
-    while True:
+    opcion=""
+    while opcion!=2:
+        #----------------------mientras que se mantenga en el chat va a repetir el chatbot.
         menu()
         opcion = input("Seleccioná una opción: ").strip()
 
@@ -36,11 +38,11 @@ def iniciar_chat():
                     guardar_txt(archivo, entrada, nueva_respuesta)
                     preguntas_respuestas.append((entrada, nueva_respuesta))
                     print("✅ Pregunta agregada con éxito.")
-        elif opcion == "2":
-            print("👋 ¡Gracias por usar el asistente de viajes! ¡Buen viaje!")
-            break
         else:
             print("❌ Opción inválida.")
+    else:
+        print("👋 ¡Gracias por usar el asistente de viajes! ¡Buen viaje!")
+
 
 if __name__ == "__main__":
     iniciar_chat()

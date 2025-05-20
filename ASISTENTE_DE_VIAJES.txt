@@ -68,3 +68,6 @@ Respuesta: Argentina queda en el sur de América del Sur, y es el segundo país 
 Respuesta: Flybondi , jetSMART, iberia , Air Europa, Aerolineas Argentinas, son unas de las mas conocidas y confiables para viajar
 34) Cuando puedo visiar europa?
 Respuesta: junio/julio son las mejores epocas para ir
+
+35) Hola
+Respuesta: ola como te llamas?
