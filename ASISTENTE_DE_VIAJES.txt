@@ -74,3 +74,195 @@ Respuesta: ola como te llamas?
 
 36) Hola
 Respuesta: hola que tal
+
+37) ¿Cuánto tiempo antes debo reservar mi vuelo?  
+Respuesta: Lo ideal es reservar entre 2 y 3 meses antes para vuelos nacionales y entre 3 y 6 meses para vuelos internacionales, así conseguis mejores precios y disponibilidad.  
+
+38) ¿Qué documentos necesito para viajar con niños?  
+Respuesta: Generalmente, los niños necesitan pasaporte y autorización de los padres o tutores si viajan solos o con un adulto que no sea familiar. Verificá los requisitos específicos del país.  
+
+39) ¿Cuáles son las restricciones de equipaje en vuelos internacionales?  
+Respuesta: Depende de la aerolínea y clase de boleto, pero usualmente se permite una maleta de 23 kg en bodega y una pieza de equipaje de mano. Consultá siempre con tu aerolínea.  
+
+40) ¿Cómo puedo encontrar vuelos baratos?  
+Respuesta: Usá buscadores como Skyscanner, Google Flights o Kayak, y reservá con anticipación. Evitá fechas festivas y vuelos en fin de semana para mejores precios.  
+
+41) ¿Qué debo hacer si pierdo mi pasaporte en el extranjero?  
+Respuesta: Contactá inmediatamente a la embajada o consulado de tu país para reportar la pérdida y tramitar un pasaporte provisional o de emergencia.  
+
+42) ¿Es seguro usar tarjetas de crédito en el extranjero?  
+Respuesta: Sí, pero siempre es recomendable avisar a tu banco antes de viajar y monitorear tus movimientos para evitar fraudes. Usá preferentemente tarjetas con chip y tecnología contactless.  
+
+43) ¿Cómo puedo evitar el jet lag?  
+Respuesta: Adaptá tu horario al destino unos días antes, hidratate bien, evitá alcohol y cafeína, y descansá lo suficiente durante el vuelo.  
+
+44) ¿Cuáles son las vacunas recomendadas para viajar a Asia?  
+Respuesta: Depende del país, pero suelen recomendarse vacunas contra hepatitis A y B, fiebre tifoidea, tétanos y, en algunos casos, fiebre amarilla. Consultá con un centro de vacunación internacional.  
+
+45) ¿Puedo llevar líquidos en mi equipaje de mano?  
+Respuesta: Sí, pero deben estar en envases de hasta 100 ml y todos juntos en una bolsa plástica transparente de 1 litro, según las normas internacionales de seguridad.  
+
+46) ¿Qué hago si pierdo mi equipaje en el aeropuerto?  
+Respuesta: Reportá la pérdida inmediatamente en el mostrador de la aerolínea, completá un formulario de reclamación y guardá el comprobante para seguimiento.  
+
+47) ¿Es mejor comprar seguro de viaje en línea o en el aeropuerto?  
+Respuesta: Es mejor comprarlo en línea antes de viajar, así obtenés mejores precios y coberturas más amplias.  
+
+48) ¿Qué es un visado de turista y cómo se solicita?  
+Respuesta: Es un permiso que algunos países requieren para ingresar por turismo. Se solicita en consulados o embajadas, a veces online, y depende de tu nacionalidad y destino.  
+
+49) ¿Qué puedo hacer en caso de emergencia médica en el extranjero?  
+Respuesta: Contactá a tu seguro de viaje, acudí a centros médicos autorizados y guardá toda la documentación para el reclamo posterior.  
+
+50) ¿Cuál es la mejor forma de cambiar dinero al viajar?  
+Respuesta: Cambiá en casas de cambio oficiales o bancos, evitá cambiar en la calle o lugares no autorizados para evitar estafas.  
+
+51) ¿Qué consejos hay para viajar solo?  
+Respuesta: Informá a alguien de confianza sobre tu itinerario, mantené tus pertenencias seguras y confiá en tu intuición para evitar situaciones riesgosas.  
+
+52) ¿Puedo viajar con medicamentos?  
+Respuesta: Sí, llevá la receta médica y el medicamento en su envase original. Consultá las regulaciones del país destino.  
+
+53) ¿Qué hacer si me detienen en un control migratorio?  
+Respuesta: Mantené la calma, respondé con sinceridad y tené a mano tus documentos. Si es necesario, solicitá asistencia consular.  
+
+54) ¿Es necesario vacunarse para viajar a Estados Unidos?  
+Respuesta: Actualmente, no es obligatorio vacunarse para ingresar, pero puede variar según la situación sanitaria global y el motivo del viaje.  
+
+55) ¿Cómo reservar hoteles baratos?  
+Respuesta: Usá plataformas como Booking, Expedia o Airbnb, y reservá con anticipación o en temporada baja para mejores precios.  
+
+56) ¿Qué app me recomiendan para organizar mi viaje?  
+Respuesta: Aplicaciones como TripIt, Google Trips o Kayak ayudan a organizar itinerarios, reservas y actividades.  
+
+57) ¿Qué debo hacer si mi vuelo se retrasa o cancela?
+Respuesta: Contactá a la aerolínea para reprogramar o pedir reembolso. Guardá los comprobantes y conocé tus derechos según la normativa vigente.
+
+58) ¿Cómo puedo conseguir un visado para Estados Unidos?
+Respuesta: Debés completar el formulario DS-160, pagar la tasa correspondiente y asistir a una entrevista en la embajada o consulado de EE.UU.
+
+59) ¿Es recomendable contratar tours guiados en destinos turísticos?
+Respuesta: Sí, sobre todo en lugares donde el idioma o la cultura son diferentes, para aprovechar mejor la visita y garantizar seguridad.
+
+60) ¿Qué debo hacer si me roban durante el viaje?
+Respuesta: Denunciá a la policía local, contactá a tu embajada y bloqueá tarjetas bancarias si es necesario.
+
+61) ¿Puedo viajar con comida en el avión?
+Respuesta: Sí, generalmente alimentos sólidos están permitidos en el equipaje de mano, pero no líquidos o cremas que superen los límites establecidos.
+
+62) ¿Cuánto equipaje puedo llevar en vuelos low cost?
+Respuesta: Suelen tener restricciones más estrictas, permitiendo solo equipaje de mano pequeño y cobrando extra por maletas en bodega. Consultá la política específica.
+
+63) ¿Cómo elegir un seguro de viaje adecuado?
+Respuesta: Evaluá cobertura médica, cancelaciones, pérdida de equipaje y actividades que realizarás. Compará precios y lee opiniones antes de comprar.
+
+64) ¿Qué es la tarjeta sanitaria europea?
+Respuesta: Es un documento que permite recibir atención médica pública en países de la UE en condiciones similares a los locales.
+
+65) ¿Puedo llevar equipo deportivo en avión?
+Respuesta: Sí, pero algunas aerolíneas cobran un costo adicional y requieren embalaje especial. Consultá con anticipación.
+
+66) ¿Es seguro viajar en temporada alta?
+Respuesta: Sí, pero esperá mayor cantidad de turistas, precios más altos y reservá con anticipación.
+
+67) ¿Qué aplicaciones me ayudan a traducir en tiempo real?
+Respuesta: Google Translate, Microsoft Translator y iTranslate son opciones populares con traducción de voz y texto.
+
+68) ¿Qué debo hacer antes de viajar para evitar problemas con la aduana?
+Respuesta: Informate sobre las prohibiciones y límites de productos para el país destino y declará correctamente lo que corresponda.
+
+69) ¿Es necesario llevar adaptadores de enchufe?
+Respuesta: Sí, cada país tiene diferentes tipos de enchufes y voltajes. Consultá y llevá adaptadores universales si es necesario.
+
+70) ¿Cómo manejar emergencias en países con idioma diferente?
+Respuesta: Aprendé frases básicas de emergencia, usá aplicaciones de traducción y tené a mano números de emergencia locales.
+
+71) ¿Puedo cambiar dinero en el aeropuerto?
+Respuesta: Sí, pero las casas de cambio en aeropuertos suelen tener tasas menos favorables.
+
+72) ¿Qué documentos necesito para alquilar un auto en otro país?
+Respuesta: Pasaporte, licencia de conducir válida y, en algunos casos, licencia internacional y tarjeta de crédito.
+
+73) ¿Cuáles son los derechos de los pasajeros en caso de overbooking?
+Respuesta: La aerolínea debe ofrecer compensación, asistencia y alternativas de viaje si te niegan el embarque.
+
+74) ¿Se puede viajar con drones?
+Respuesta: Sí, pero cada país tiene regulaciones específicas que hay que cumplir y permisos que tramitar.
+
+75) ¿Qué debo hacer si pierdo la tarjeta de crédito en el extranjero?
+Respuesta: Bloqueá la tarjeta inmediatamente desde la app o llamando a tu banco y reportá la pérdida para evitar fraudes.
+
+76) ¿Es necesario reservar traslados desde el aeropuerto?
+Respuesta: No siempre, pero reservar con anticipación puede ser más seguro y conveniente, especialmente en destinos desconocidos.
+
+77) ¿Qué actividades al aire libre se pueden hacer en Patagonia?
+Respuesta: Senderismo, esquí, kayak, pesca deportiva y avistaje de fauna, entre otras.
+
+78) ¿Cuáles son las mejores formas de moverse en una ciudad extranjera?
+Respuesta: Transporte público, taxis oficiales, apps de ride-sharing y bicicletas compartidas son las opciones más comunes.
+
+79) ¿Cómo puedo proteger mis dispositivos electrónicos durante el viaje?
+Respuesta: Usá fundas, mantenelos cargados y no los dejés desatendidos. Considerá asegurarlos si son de alto valor.
+
+80) ¿Qué debo saber sobre las costumbres locales antes de viajar?
+Respuesta: Investigá normas sociales, horarios, saludos y protocolo para evitar malentendidos y mostrar respeto.
+
+81) ¿Cómo evitar estafas comunes en destinos turísticos?
+Respuesta: Informate con fuentes confiables, evitá mostrar objetos de valor, desconfiá de ofertas demasiado buenas y usá transporte oficial.
+
+82) ¿Qué hacer si pierdo mi vuelo de conexión?
+Respuesta: Contactá a la aerolínea para reprogramar el vuelo y consulta si tienen políticas de asistencia para estas situaciones.
+
+83) ¿Qué es el roaming y cómo funciona?
+Respuesta: Es el servicio que permite usar tu celular en el extranjero, pero puede generar altos costos si no tenés un plan internacional.
+
+84) ¿Se puede viajar con plantas o productos agrícolas?
+Respuesta: Generalmente está prohibido o regulado estrictamente para evitar plagas y enfermedades. Consultá la normativa del país destino.
+
+85) ¿Qué opciones de transporte hay en Río de Janeiro?
+Respuesta: Metro, autobuses, taxis, apps de transporte y teleférico para subir al Pan de Azúcar.
+
+86) ¿Cuáles son los platos típicos de Brasil?
+Respuesta: Feijoada, pão de queijo, churrasco, acarajé y brigadeiro.
+
+87) ¿Es seguro beber agua del grifo en Europa?
+Respuesta: En la mayoría de los países sí, pero es recomendable verificar en cada destino y usar agua embotellada si no estás seguro.
+
+88) ¿Qué actividades culturales puedo hacer en Buenos Aires?
+Respuesta: Visitar teatros, museos, ferias artesanales, y disfrutar de espectáculos de tango.
+
+89) ¿Cuáles son las mejores épocas para visitar Brasil?
+Respuesta: De diciembre a marzo (verano) para playas y festivales, y de mayo a septiembre para clima más seco y turismo menos masivo.
+
+90) ¿Qué documentos necesito para viajar a Brasil desde Argentina?
+Respuesta: Pasaporte o DNI válido, dependiendo del medio de transporte y duración del viaje.
+
+91) ¿Es necesario vacunarse contra la fiebre amarilla para entrar a Brasil?
+Respuesta: Sí, especialmente si visitás áreas de riesgo. Consultá con un centro de vacunación internacional.
+
+92) ¿Qué hago si me pierdo en una ciudad extranjera?
+Respuesta: Mantené la calma, usá mapas o GPS, preguntá a personas de confianza y evitá zonas poco seguras.
+
+93) ¿Cuánto tiempo antes debo llegar al aeropuerto para un vuelo internacional?
+Respuesta: Recomendado entre 3 y 4 horas antes para trámites y seguridad.
+
+94) ¿Cómo funcionan las propinas en Brasil?
+Respuesta: Generalmente se agrega un 10% de servicio en restaurantes, pero es opcional.
+
+95) ¿Qué medidas de seguridad debo tomar al usar cajeros automáticos en el extranjero?
+Respuesta: Usá cajeros en lugares seguros, cubrí el teclado al ingresar el PIN y evitá retirar grandes sumas de dinero en un solo retiro.
+
+96) ¿Es recomendable comprar souvenirs en mercados locales?
+Respuesta: Sí, pero negociá precios y verificá la autenticidad de los productos.
+
+97) ¿Cuáles son las mejores playas de Brasil para visitar?
+Respuesta: Copacabana, Ipanema, Praia do Forte y Jericoacoara, entre otras.
+
+98) ¿Qué debo saber sobre la conectividad móvil en Brasil?
+Respuesta: Podés comprar una SIM local o usar roaming, pero la cobertura varía según la región.
+
+99) ¿Qué opciones de alojamiento hay en Bariloche?
+Respuesta: Hoteles, hostels, cabañas y departamentos en alquiler, con opciones para todos los presupuestos.
+
+100) ¿Qué actividades se pueden hacer en Iguazú además de visitar las cataratas?
+Respuesta: Paseos en bote, caminatas por senderos, visitas a la reserva de animales y turismo comunitario.
