@@ -47,7 +47,7 @@ def iniciar_chat():
                 else:
                     print("❌ Opción inválida. Escribí 'si' o 'no'.")
         else:
-            print("❌ Opción inválida.")
+            print("❌ Opción inválida. Por favor ingresá 1 o 2.")
     
 
 
